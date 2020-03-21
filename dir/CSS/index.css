@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div.top {
+    width: 100%;
+    height: 48px;
+    /*background-color: #85dfff;*/
+    background: #67b7ff63;
+}
+
+div.top ul li {
+    list-style: none;
+    float: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+form.content table {
+    /*background: rgba(0,0,0,0.2);*/
+}
+
+form.content table tr:nth-child(2n) {
+    background: #F3F9FF;
+}
+
+
